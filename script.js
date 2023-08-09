@@ -19,9 +19,9 @@ function updatePlayButton() {
     const playButtonIcon = document.getElementById("IconChangeColor");
 
     if (isAudioPlaying) {
-        playButtonIcon.style.fill = "#000000"; // Keep the play button black
+        playButtonIcon.style.fill = "#191919"; // Keep the play button black
     } else {
-        playButtonIcon.style.fill = "#000000"; // Keep the play button black
+        playButtonIcon.style.fill = "#191919"; // Keep the play button black
     }
 }
 
